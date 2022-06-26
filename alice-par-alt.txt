@@ -1,38 +1,35 @@
 To illustrate the professional practice with the business phone the different steps within the app are described in more detail.
 
-First, to use the MediFox app the caregivers have to log in with their account.
+The caregivers have to log in with their account in order to use the MediFox app.
 
-Afterwards they can choose between several menu options like ‘tasks’, ‘shifts’, ‘handover report’, and ‘messages’.
+They can then choose between several menu options like ‘tasks’, ‘shifts’, ‘handover report’, and ‘messages’.
 
-Thereby the option ‘tasks’ is unused entirely and the messaging system is ignored in favor of direct phone calls with a care manager in case questions arise on site.
+The option ‘tasks’ is unused entirely and the messaging system is ignored in favor of direct phone calls with a care manager in case questions arise on site.
 
-In contrast, the options ‘handover report’ and ‘shifts’ are used daily after manually synchronizing the app after the login.
+The options ‘handover report’ and ‘shifts’ are used daily after manually synchronizing the app after the login.
 
-Second, to start their worktime caregivers have to start their shift via a green button at the bottom screen.
+To start their work time caregivers have to start their shift by clicking a green button at the bottom screen.
 
-Then they have ten minutes to prepare the tour and, for example, pack necessary medicines and keys.
+It triggers a ten minute timer to prepare the tour and, for example, pack necessary medicines and keys.
 
-In a third step, they can start their tour by clicking again on a green button.
+They can then start their tour by clicking again on a green button.
 
-Thereupon the assignments planned for the shift are displayed with the most important information in chronological order.
+The app will display the assignments planned for the shift in chronological order and the most important information.
 
-By clicking on the patient’s assignment all information about the services, medication, previous vital signs, and the nursing process are accessible.
+By selecting the patient’s assignment all information about the services, medication, previous vital signs, and the nursing process is accessible.
 
-By arriving at the patient’s apartment, a fourth step is performed to record the actual care time.
-To start the minute-based recording a green button in the app is pushed again.
+When arriving at the patient’s apartment, the actual care time recording is started through another click of a green button.
 
-While performing the care work the caregivers have to check off all services provided separately.
+All provided services have to be checked off separately by the caregiver during this step.
 
-As mentioned earlier caregivers can add services if needed due to preplacement, modification or urgent assistance.
-However, this never happened during the field stay.
+As mentioned earlier they can add services if needed due to pre-placement, modification, or urgent assistance.
+This never happened during this field stay of the author.
 
-Instead, caregivers used the note function, so that the office workers can then classify the performed services accordingly.
+Instead, caregivers used the note function so that the office workers could classify the performed services accordingly afterwards.
 
 The reason mentioned by caregivers was that they are not very familiar with the legal requirements and numbers assigned.
 
-Fifth, once everything has been done at the patient’s home, the recording is manually stopped via a red button at the bottom screen.
-Same applies to end the tour and the shift.
-
-
+The recording is manually stopped through a red button at the bottom screen once everything has been done at the patient’s home.
+The same applies to ending the tour and the caregiver’s shift.
 
 
